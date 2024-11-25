@@ -18,10 +18,12 @@ A estrutura do projeto foi organizada para facilitar a leitura e manutenção do
 
 1. Certifique-se de ter o Python 3.6+ instalado.
 2. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/fortune-tiger.git 
-3. Acesse o diretório do projeto:
-```bash 
+   
+```
+   git clone https://github.com/seu-usuario/fortune-tiger.git
+```
+4. Acesse o diretório do projeto:
+```
 cd fortune-tiger
 ```
 4. Execute o jogo:
